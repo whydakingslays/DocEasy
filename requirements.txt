@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+pydantic
+python-multipart
+jinja2
+pwdlib[argon2]
+pyjwt
+email-validator
+pillow
+pymupdf
+pdf2docx
+docx2pdf
+pytesseract
